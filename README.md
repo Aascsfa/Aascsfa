@@ -5,8 +5,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aascsfa&label=Profile%20views&color=0e75b6&style=flat" alt="aascsfa" /> </p>
-- 
-
 - 💬 Ask me about **Python, SQL, PowerBI, Excel**
 
 - 📫 How to reach me **nguyenchivi0611@gmail.com**
