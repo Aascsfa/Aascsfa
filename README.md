@@ -1,7 +1,8 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5112AQHUcTYzLcSa8Q/article-cover_image-shrink_600_2000/0/1586244190993?e=2147483647&v=beta&t=TIMFyzA2kENJtX5pAlOzAyBrqo2j3lMmpN2uNH2Ix1U)](https://Aascsfa.io>)
 <h1 align="center">Hi 👋, I'm Chi Vi Nguyen</h1>
-<h3 align="center">A Graduate Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8890b3836e5c774ccf3074efabcd95f31dbce1fcf4e0ed8a696f8b43f959eae/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
+<h3 align="center">Insight-driven and detail-oriented Data Analyst who can transform raw data into meaningful insights, uncover hidden patterns, and provide actionable recommendations. Skilled in multiple data analysis tools and integrated platforms for data mining, I am eager to leverage my technical skills, educational background, and hands-on experience in data and insights analysis to contribute toward business success.</h3>
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aascsfa&label=Profile%20views&color=0e75b6&style=flat" alt="aascsfa" /> </p>
