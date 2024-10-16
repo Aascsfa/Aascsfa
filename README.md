@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5112AQHUcTYzLcSa8Q/article-cover_image-shrink_600_2000/0/1586244190993?e=2147483647&v=beta&t=TIMFyzA2kENJtX5pAlOzAyBrqo2j3lMmpN2uNH2Ix1U)](https://Aascsfa.io>)
 <h1 align="center">Hi 👋, I'm Chi Vi Nguyen</h1>
-<h3 align="center">Insight-driven and detail-oriented Data Analyst who can transform raw data into meaningful insights, uncover hidden patterns, and provide actionable recommendations. Skilled in multiple data analysis tools and integrated platforms for data mining, I am eager to leverage my technical skills, educational background, and hands-on experience in data and insights analysis to contribute toward business success.</h3>
+<p align="center">Insight-driven and detail-oriented Data Analyst who can transform raw data into meaningful insights, uncover hidden patterns, and provide actionable recommendations. Skilled in multiple data analysis tools and integrated platforms for data mining, I am eager to leverage my technical skills, educational background, and hands-on experience in data and insights analysis to contribute toward business success.</p>
 
 
 
